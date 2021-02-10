@@ -1,4 +1,4 @@
-# Azure PowerShell documentation
+# Azure documentation
 
 This repository hosts the documentation source for the Azure PowerShell module, published on [docs.microsoft.com](https://docs.microsoft.com/powershell/azure/).
 
